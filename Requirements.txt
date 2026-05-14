@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+adfuller
+plot_acf
+plot_pacf
+ARIMA
+sklearn
+sqrt
+mean_squared_error
+pickle
